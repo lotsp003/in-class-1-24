@@ -1,0 +1,115 @@
+.title {
+ height: 80px;
+ width: 100%;
+background-color: #22b573;
+text-align: center;
+padding-top: 10px;
+
+}
+.end {
+ height: 80px;
+ width: 100%;
+background-color: #22b573;
+text-align: center;
+padding-top: 50px;
+
+}
+
+h1 {
+margin-top: 7px;
+color: #ffffff;
+font-family: 'Hammersmith One', sans-serif;
+text-align: center;
+font-size: 2em;
+}
+
+
+h2 {
+	color: #ffffff;
+font-family: 'Hammersmith One', sans-serif;
+text-align: center;
+font-size: 1em;
+margin-top: 2px;
+}
+
+#overlay {
+margin-top: 7px;
+color: #ffffff;
+font-family: 'Hammersmith One', sans-serif;
+text-align: center;
+font-size: 3em;
+position: absolute;
+top: 30%;
+left: 0%;
+margin-left: 50px;
+margin-right: 50px;
+line-height: 1.25em;
+
+}
+
+#cover {
+	width: 100%;
+	height: 60%;
+	background: url("../images/JoniMitchellLegacy_Getty_Ringer.0.jpg") no-repeat center fixed; 
+	background-repeat: no-repeat;
+	-webkit-background-size: cover; 
+	position: absolute;
+
+}
+#cover2 {
+	width: 100%;
+	height: 60%;
+	background: url("../images/GettyImages_502508419.jpg") no-repeat center fixed; 
+	background-repeat: no-repeat;
+	-webkit-background-size: cover; 
+	position: absolute;
+
+}
+#cover3 {
+	width: 100%;
+	height: 60%;
+	background: url("../images/GettyImages_50380225.jpg") no-repeat center fixed; 
+	background-repeat: no-repeat;
+	-webkit-background-size: cover; 
+	position: absolute;
+	}
+
+#caption {
+	height: 10px;
+	color: #ffffff;
+	position: relative;
+	top: 87%;
+	left: 20px;
+	opacity: .7;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+p {
+	font-size: 1.25em;
+	line-height: 1.75em;
+	font-family: 'Titillium Web', sans-serif;
+	margin-top: 20px;
+	margin-right: 10%;
+	margin-left: 10%;
+
+}
+
+.content {
+margin-top: 600px;
+margin-bottom: 70px;
+position: relative;
+}
+
+#content2 {
+margin-top: 650px;
+margin-bottom: 80px;
+position: relative;
+}
+
+
+#photopara {
+	position: relative;
+	top: 500px;
+}
+
